@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Security.Claims;
 
-namespace GraphQL.Authorization
+namespace GraphQL.Core.Authorization
 {
     public class AuthorizationContext
     {

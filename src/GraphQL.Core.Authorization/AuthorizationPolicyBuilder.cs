@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace GraphQL.Authorization
+namespace GraphQL.Core.Authorization
 {
     public class AuthorizationPolicyBuilder
     {

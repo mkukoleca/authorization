@@ -3,7 +3,7 @@ using GraphQL.Language.AST;
 using GraphQL.Types;
 using GraphQL.Validation;
 
-namespace GraphQL.Authorization
+namespace GraphQL.Core.Authorization
 {
     public class AuthorizationValidationRule : IValidationRule
     {

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using GraphQL.Builders;
 using GraphQL.Types;
 
-namespace GraphQL.Authorization
+namespace GraphQL.Core.Authorization
 {
     public static class AuthorizationMetadataExtensions
     {
